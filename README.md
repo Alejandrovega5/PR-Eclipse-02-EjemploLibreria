@@ -1,5 +1,5 @@
 # PR-Eclipse-02-EjemploLibreria
-💡 7. Reflexión final
+💡 7. Reflexión final */n
 ¿Qué pasaría si exporto el proyecto a un .zip y se lo paso a un amigo o me lo llevo al ordenador de casa? ¿Funcionaría? Razona la respuesta.
 Funciona en el caso que haya puesto el .jar en la carpeta /lib usando ADD JARs.
 
